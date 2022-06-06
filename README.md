@@ -1,4 +1,4 @@
-# learning-how-to-use-github
+# Speed Blog: Fair data in publishing workflow
 
 ### Level 2
 #### Level 3
